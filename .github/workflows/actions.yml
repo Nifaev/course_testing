@@ -38,4 +38,4 @@ jobs:
           pip install coveralls
           coveralls
         env:
-          COVERALLS_REPO_TOKEN: ${{ xYfDQzgyoRRSucxxU9RvjUsESYp6utzQD }}
+          COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}
