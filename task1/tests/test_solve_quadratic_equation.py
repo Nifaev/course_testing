@@ -1,6 +1,6 @@
 import pytest
 
-from solve_quadratic_equation import solve_quadratic_equation
+from quadratic_equation.solve_quadratic_equation import solve_quadratic_equation
 
 
 def test_zero_a():

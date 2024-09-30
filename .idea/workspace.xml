@@ -6,11 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="b34c0b51-74c8-4412-b4ce-7044a09606d9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Задание 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Задание 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task1/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/solve_quadratic_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1/quadratic_equation/solve_quadratic_equation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/test_solve_quadratic_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1/tests/test_solve_quadratic_equation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +44,12 @@
     "last_opened_file_path": "D:/PetrSU/4 kurs/Тестирование ПО/Задание 1"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PetrSU\4 kurs\Тестирование ПО\Задание 1\task1\tests" />
+      <recent name="D:\PetrSU\4 kurs\Тестирование ПО\Задание 1\task1\quadratic_equation" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

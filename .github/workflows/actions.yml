@@ -29,13 +29,9 @@ jobs:
         run: pip install -r .\task1\requirements.txt
 
       - name: Run tests with pytest
-        run: |
-          pip install pytest-cov
-          pytest --cov=.\task1\test_solve_quadratic_equation.py
+        run: pytest --cov=.\task1\test_solve_quadratic_equation.py
 
       - name: Upload coverage report to Coveralls
-        run: |
-          pip install coveralls
-          coveralls
+        run: coveralls
         env:
           COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}
